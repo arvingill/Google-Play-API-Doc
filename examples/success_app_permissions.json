@@ -1,0 +1,77 @@
+{
+  "code": 0,
+  "credits": 0.003,
+  "result": {
+    "Calendar": [
+      "add or modify calendar events and send email to guests without owners' knowledge",
+      "read calendar events plus confidential information"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Contacts": [
+      "find accounts on the device",
+      "read your contacts"
+    ],
+    "Device & app history": [
+      "retrieve running apps"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Identity": [
+      "add or remove accounts",
+      "find accounts on the device",
+      "read your own contact card"
+    ],
+    "Location": [
+      "precise location (GPS and network-based)"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "change your audio settings",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "create accounts and set passwords",
+      "full network access",
+      "install shortcuts",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "read battery statistics",
+      "reorder running apps",
+      "run at startup",
+      "uninstall shortcuts",
+      "use accounts on the device",
+      "view network connections"
+    ],
+    "Phone": [
+      "directly call phone numbers",
+      "read call log",
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "SMS": [
+      "receive text messages (SMS)"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Uncategorized": [
+      "capture video output",
+      "change screen orientation",
+      "read frame buffer",
+      "receive data from Internet"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ]
+  },
+  "tip": "You can read document or contact provider: https://www.idatariver.com/project/google-play-store-api-de67"
+}

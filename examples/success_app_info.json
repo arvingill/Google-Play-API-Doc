@@ -1,0 +1,70 @@
+{
+  "code": 0,
+  "credits": 0.003,
+  "result": {
+    "adSupported": true,
+    "appId": "com.instagram.android",
+    "categories": [
+      {
+        "id": "SOCIAL",
+        "name": "Social"
+      }
+    ],
+    "comments": [],
+    "containsAds": true,
+    "contentRating": "Teen",
+    "contentRatingDescription": null,
+    "currency": "USD",
+    "description": "Little moments lead to big friendships. Share yours on Instagram. \r\n—From Meta\r\n\r\nConnect with friends, find other fans, and see what people around you are up to and into. Explore your interests and post what's going on, from your daily moments to life's highlights.\r\n\r\nShare what you’re up to and into on Insta®.\r\n- Keep up with friends on the fly with Stories and Notes that disappear after 24 hours.\r\n- Start group chats and share unfiltered moments with your Close Friends.\r\n- Share memories from recent events or trips in Feed.\r\n- Turn your life into a movie and discover short, entertaining videos on Instagram with Reels.\r\n- Customize your posts with exclusive templates, music, stickers and filters.\r\n\r\nDive into your interests.\r\n- Watch videos from your favorite Creators and discover new content that’s personalized to your interests.\r\n- Get inspired by photos and videos from new accounts in Explore.\r\n- Discover brands and small businesses, and shop products that are relevant to your personal style.\r\n\r\nSome Instagram features may not be available in your country or region.\r\n\r\nTerms and Policies - https://help.instagram.com/581066165581870\r\n\r\nConsumer Health Privacy Policy: https://privacycenter.instagram.com/policies/health",
+    "descriptionHTML": "Little moments lead to big friendships. Share yours on Instagram. <br>—From Meta<br><br>Connect with friends, find other fans, and see what people around you are up to and into. Explore your interests and post what&#39;s going on, from your daily moments to life&#39;s highlights.<br><br>Share what you’re up to and into on Insta®.<br>- Keep up with friends on the fly with Stories and Notes that disappear after 24 hours.<br>- Start group chats and share unfiltered moments with your Close Friends.<br>- Share memories from recent events or trips in Feed.<br>- Turn your life into a movie and discover short, entertaining videos on Instagram with Reels.<br>- Customize your posts with exclusive templates, music, stickers and filters.<br><br>Dive into your interests.<br>- Watch videos from your favorite Creators and discover new content that’s personalized to your interests.<br>- Get inspired by photos and videos from new accounts in Explore.<br>- Discover brands and small businesses, and shop products that are relevant to your personal style.<br><br>Some Instagram features may not be available in your country or region.<br><br>Terms and Policies - https://help.instagram.com/581066165581870<br><br>Consumer Health Privacy Policy: https://privacycenter.instagram.com/policies/health",
+    "developer": "Instagram",
+    "developerAddress": "Facebook, Inc.\n1601 Willow Rd\nMenlo Park, CA 94025\nUnited States",
+    "developerEmail": "android-support@instagram.com",
+    "developerId": "Instagram",
+    "developerWebsite": "http://help.instagram.com/",
+    "free": true,
+    "genre": "Social",
+    "genreId": "SOCIAL",
+    "headerImage": "https://play-lh.googleusercontent.com/CgUPurtUp8SB709wsQcKLMv6JdIh1em0ka_58V69AorznLv42TV39etS2rt28wv9Rz8",
+    "histogram": [
+      25823754,
+      5183463,
+      7317072,
+      13943669,
+      100537197
+    ],
+    "icon": "https://play-lh.googleusercontent.com/VRMWkE5p3CkWhJs6nv-9ZsLAs1QOg5ob1_3qg-rckwYW7yp1fMrYZqnEFpk0IoVP4LM",
+    "inAppProductPrice": "$0.29 - $999.99 per item",
+    "installs": "5,000,000,000+",
+    "lastUpdatedOn": "Apr 16, 2024",
+    "minInstalls": 5000000000,
+    "offersIAP": true,
+    "originalPrice": null,
+    "price": 0,
+    "privacyPolicy": "http://instagram.com/legal/privacy/",
+    "ratings": 152805191,
+    "realInstalls": 5493675597,
+    "released": "Apr 3, 2012",
+    "reviews": 4499748,
+    "sale": false,
+    "saleText": null,
+    "saleTime": null,
+    "score": 4.0352206,
+    "screenshots": [
+      "https://play-lh.googleusercontent.com/fRvdBTcc5b7pMwXkSEa5-Jm47ZfTt2lc8buw_wbFgF5lkj3GuLyu2B3b4zf7mKXhW3E",
+      "https://play-lh.googleusercontent.com/W7J_rhJYWt65XQHaZ7N_6Nptu0wC6n4k9WX59qg46KRpe9b5I1LarJqZ7L-Uu9okgA",
+      "https://play-lh.googleusercontent.com/sn_2xT5NCjg-Km4XiZMAOM6xb4LxDqC_9sd5TENCjbU9D4aXVNrendOmIzHFyQo_kahz",
+      "https://play-lh.googleusercontent.com/-yPONtQXcCl1ibP7YvXkOLv5O6waJl8AD89La3TvoXnxZR1vbn7oJ1ltuR17RZ7pono",
+      "https://play-lh.googleusercontent.com/0T3c12jEeO0RZ_D8PCb-Q9pmgLJJs9CFWimCAZixw5qaihNRHdgXUK878gPxSgvglQ",
+      "https://play-lh.googleusercontent.com/QL9_QFz2viNOULxYwsfUXrUEMImfm86YU9VtiXWI8vEBmiw5zK04l1u46arke3g-Lw"
+    ],
+    "summary": "Create & share photos, stories, & reels with friends you love",
+    "title": "Instagram",
+    "updated": 1713291389,
+    "url": "https://play.google.com/store/apps/details?id=com.instagram.android&hl=en&gl=us",
+    "version": null,
+    "video": "https://play.google.com/video/lava/web/player/yt:movie:7wbnqYRz6jE?autoplay=1&embed=play",
+    "videoImage": "https://play-lh.googleusercontent.com/CgUPurtUp8SB709wsQcKLMv6JdIh1em0ka_58V69AorznLv42TV39etS2rt28wv9Rz8"
+  },
+  "tip": "You can read document or contact provider: https://www.idatariver.com/project/google-play-store-api-de67"
+}
